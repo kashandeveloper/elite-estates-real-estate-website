@@ -65,7 +65,6 @@ This project is for educational and professional use.
 ---
 
 
-
 ## ✨ Features
 - 🏘️ Dynamic Property Listings  
 - 🔍 Advanced Search System  
@@ -80,8 +79,12 @@ This project is for educational and professional use.
 🌐 Deployment
 This project is deployed using free hosting on InfinityFree.
 
+---
+
 📌 Author
 👨‍💻 Muhammad Kashan – Full Stack Developer
+
+---
 
 ⭐ Show Your Support
 If you like this project, please ⭐ the repo and share your feedback!
@@ -90,6 +93,3 @@ If you like this project, please ⭐ the repo and share your feedback!
 
 
 
-
-
->>>>>>> fe61276d7061441748e299365292e9392f2b4404
