@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Elite Estates - Real Estate Agency Website
 
 A complete full-stack real estate agency website project built with HTML, CSS, JavaScript (Bootstrap), PHP, and MySQL.
@@ -34,9 +33,6 @@ A complete full-stack real estate agency website project built with HTML, CSS, J
 1. **Database Setup**:
    - Create a new database named `elite_estates`.
    - Import the `database.sql` file provided in the root directory into your database.
-   - The default admin credentials are:
-     - **Username**: `admin`
-     - **Password**: `password`
 
 2. **Configuration**:
    - Open `includes/db.php` and update the database connection details (host, user, password, dbname) if they differ from the default.
@@ -56,29 +52,19 @@ A complete full-stack real estate agency website project built with HTML, CSS, J
 - **Charts**: Chart.js.
 - **Icons**: Font Awesome 6.
 
-## License
-This project is for educational and professional use.
-=======
-# 🏠 Elite Estates – Real Estate Website
-
-A fully functional **Real Estate Agency Website** built using modern frontend and backend technologies. This project simulates a real-world platform where users can browse, search, and inquire about properties online.
-
----
-
-## 🚀 Live Demo
+  ## 🚀 Live Demo
 🌐 https://your-live-link-here
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- PHP
-- MySQL
+## License
+This project is for educational and professional use.
+=======
+
 
 ---
+
+
 
 ## ✨ Features
 - 🏘️ Dynamic Property Listings  
@@ -90,13 +76,6 @@ A fully functional **Real Estate Agency Website** built using modern frontend an
 - 🎨 Clean UI/UX with Modern Layout  
 
 ---
-
-
-## ⚙️ Installation (Local Setup)
-
-1. Clone the repository:
-```bash
-git clone https://github.com/kashandeveloper/elite-estates-real-estate-website.git ```
 
 🌐 Deployment
 This project is deployed using free hosting on InfinityFree.
